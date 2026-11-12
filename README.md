@@ -6,7 +6,7 @@ A repository containing my code, theory and Examples from [Namaste AI Course](ht
 
 ## 🚀 Overview
 
-Briefly describe what this specific repository covers (e.g., LLM fundamentals, tokenization experiments, RAG pipelines, or AI agents).
+This will be a repo that will have have topics related to AI, Deep Learning, Agentic Tools, AI in Software Development and more...
 
 ## 📚 Topics Covered
 
