@@ -1,4 +1,4 @@
-# Namaste AI — [Your Project / Notes Name]
+# Namaste AI — [Karan Patel]
 
 A repository containing my code, theory and Examples from [Namaste AI Course](https://namastedev.com/learn/namaste-ai) by Akshay Saini.
 
