@@ -4,19 +4,24 @@ A repository containing my code, theory and Examples from [Namaste AI Course](ht
 
 ---
 
+# Course Roadmap & Evolution of AI
+
 ## 🚀 Overview
 
 This will be a repo that will have have topics related to AI, Deep Learning, Agentic Tools, AI in Software Development and more...
 
 ## 📚 Topics Covered
 
-- **AI History & Rule-Based AI**
-- **Machine Learning & Deep Learning Basics**
-- **Transformers & LLM Architecture**
-- **Tokenization & Byte Pair Encoding (BPE)**
-- **Context Windows & Prompt Engineering**
-- **RAG (Retrieval-Augmented Generation)**
-- **AI Agents & Model Context Protocol (MCP)**
+- Intro
+- LLMs
+- Prompt Engineering
+- AI for SDEs
+- Tools
+- RAG
+- AI Agents
+- MCP
+- AI Engineering
+- Projects
 
 ## 🛠️ Tech Stack & Tools
 
